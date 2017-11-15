@@ -23,6 +23,7 @@ Courses offered:
 
 Important links:
 				https://www.sice.indiana.edu/graduate/admissions/how-to-apply/computer-science.html	
+				https://www.sice.indiana.edu/graduate/degrees/computer-science/ms-requirements.html
 				https://www.sice.indiana.edu/graduate/degrees/data-science/curriculum/index.html	
 
 Admission Status:
