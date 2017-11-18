@@ -1,0 +1,29 @@
+Conclusion: Apply.
+
+Deadline :
+			Priority Deadline: CSE must receive all online materials by January 15, 2017. We 					must receive all supporting documentation by January 31, 2017.
+			Normal Deadline:  CSE must receive all online materials by January 15, 2017. We 				  must receive all supporting documentation by January 31, 2017.
+
+Documents required:
+			CSE must receive all online materials by January 15, 2017. We must receive all supporting documentation by January 31, 2017.
+			Transcripts: Copies of transcript(s) for all post-secondary schoolwork must be 				 uploaded with the online application for initial review. 
+			Sop:  personal statement (statement of purpose) explaining why you are interested 		in graduate study in computer science and engineering at the University at 		  Buffalo.The online application provides a space for you to type your   		  personal statement.
+			Resume: pdf
+			Lor: Three (3) letters of recommendation are to be requested through the online 	 application by providing the recommenders' names and e-mail addresses.
+			gre: min 309, avg 316
+			Toefl: 79
+			gpa: min 3.0, avg 3.5
+
+Courses offered:
+		MS in cs: There is research going on in Machine learning. 
+		
+
+
+Important links:
+				https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions/faq.html#how
+				https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions/application-materials.html
+				https://engineering.buffalo.edu/computer-science-engineering.html
+				https://engineering.buffalo.edu/computer-science-engineering/graduate/courses.html
+
+My school does not use the same grading scale as UB. What should I enter in the academic section?
+Please enter the grades as shown on your transcript(s). We will evaluate your grades and grade point average (GPA) based upon a grading conversion scale.				

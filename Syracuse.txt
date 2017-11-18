@@ -1,0 +1,40 @@
+Conclusion: Decent for CS(optional). Private university. very cold climate.
+			
+Rank: 67
+Deadline :
+			Priority Deadline: June 1 (CS)
+			Normal Deadline:  June 1 (CS)
+
+Documents required:
+			Ensure that all application materials arrive at Syracuse University before applicable deadlines.Transcripts, resume, letters of recommendation, personal statement of purpose, and other required materials should be sent to the following address: http://eng-cs.syr.edu/admissions/graduate/
+			Transcripts: 
+			Sop: 
+			Resume:
+			Lor:
+			gre: Q: 163, V: 148, A:3.5
+			Toefl: avg 95
+			Gpa: avg 3.3
+
+
+Courses offered:
+		MS in cs: A candidate for MSCS degree is required to take 10 graduate level courses 			(30 credits), including four required (core) courses. These four core 				courses are:
+					CIS 623 Structured Programming and Formal Methods
+					CIS 655 Computer Architecture
+					CIS 657 Principles of Operating Systems
+					CIS 675 Design and Analysis of Algorithms
+				The remaining six courses are chosen by the candidate from a wide range of graduate level courses in computer science and computer engineering offered each semester.At most two courses at 500 level may be included in the program of study. 
+				No machine learning but there are courses on Artificial neural networks, Artificial Intelligence, Natural language processing.
+
+		Ms in Data science: Good, Extensive coursework, has machine learning and statistics.
+							You do not have to come from a STEM (science, technology, engineering, and math) background to be successful in the Data Science Program at Indiana University. 
+
+
+
+Important links:
+				http://coursecatalog.syr.edu/content.php?catoid=12&catoid=12&navoid=1590&filter%5Bitem_type%5D=3&filter%5Bonly_active%5D=1&filter%5B3%5D=1&filter%5Bcpage%5D=8#acalog_template_course_filter
+				http://eng-cs.syr.edu/program/computer-science/?degree=masters_program
+				http://eng-cs.syr.edu/admissions/graduate/#faq
+
+Admission Status:
+
+The Computer Science Graduate Office will contact applicants via emails with their admissions status beginning in late January for Ph.D. applicants, and mid April for Master's students.						

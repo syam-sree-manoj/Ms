@@ -1,0 +1,39 @@
+Conclusion: Don't apply.
+
+Deadline :
+			Priority Deadline: February 1, 2018 with a document deadline of February 20, 2018.
+			Normal Deadline: February 1, 2018 with a document deadline of February 20, 2018.
+
+Documents required:
+			Supply transcripts, degree certificates, test scores, and citizenship/visa information, as directed by the Graduate Admissions and Program Evaluations office.
+			Ask for letters of recommendation to be sent directly to: Address
+			Transcripts:  Mark sheets/transcripts must be sent directly to WES for 						  evaluation. SJSU must receive the academic record and the 					  evaluation directly from WES.
+			Sop: PDF
+			Resume: Resume/CV in PDF format
+			Lor: Letters must be on university or company stationery and sealed in university 	   or company envelopes.
+			gre: not given
+			Toefl: 80
+			gpa: Hold a GPA of at least 2.5 
+
+Courses offered:
+		MS in cs: No Machine learning in course work, but there is reasearch in Big data.
+
+
+
+Important links:
+				http://www.sjsu.edu/cs/programs/mscs/faq/
+				http://www.sjsu.edu/cs/programs/mscs/faq/#P1
+				http://www.sjsu.edu/cs/programs/mscs/program-info/index.html
+				http://www.sjsu.edu/cs/research/index.html
+				http://www.sjsu.edu/cs/programs/mscs/how-to-apply/
+				http://www.sjsu.edu/gape/prospective_students/
+				http://www.sjsu.edu/gape/prospective_students/GAPE_flowchart_international_080317.pdf
+
+
+Q: I don't have a degree in computer science, can I be admitted? 
+
+A: If your degree is in a related discipline (such as Information Systems), and there is space in the program, you may be be admitted conditionally, with a few extra prerequisite course requirements. If your degree is in an unrelated field, and there is space in the program, you may be asked to complete most or all undergraduate CS core courses.
+
+Q: I took college courses in (C|C++|Java|Cobol|Perl|Unix|Oracle) programming. Do you consider these courses when evaluating my computer science background?
+
+A: No.

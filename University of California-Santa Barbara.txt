@@ -1,0 +1,29 @@
+Conclusion: Higly ambitious.
+
+Deadline :
+			Priority Deadline: Dec 15
+			Normal Deadline:  Dec 15
+
+Documents required:
+			All materials to be submitted in your online graduate application
+			Transcripts: scanned copy
+			Sop: PDF
+			Resume: Resume/CV in PDF format
+			Lor: 3 (mail_id)
+			gre: not specified
+			Toefl: 100 min. However, if you receive a score anywhere between an 80 and 100 on 		 the TOEFL, your application will still be considered.
+			CGPA: The minimum GPA in order to be accepted is 3.0. However, most of our 	   		  admitted students have GPAs above 3.3. Note that this is not a hard limit, 	   and we will do our best to put GPAs into context on a per-school basis.
+
+
+Courses offered:
+		MS in cs: Good but need undergrad courses in cs. 
+		Ms in Data science: Good, Extensive coursework, has machine learning and statistics.
+							You do not have to come from a STEM (science, technology, engineering, and math) background to be successful in the Data Science Program at Indiana University. 
+
+
+
+Important links:
+				https://www.cs.ucsb.edu/education/grad/apply
+				http://www.graddiv.ucsb.edu/admissions/faq
+				http://www.graddiv.ucsb.edu/admissions/faq#application	
+
