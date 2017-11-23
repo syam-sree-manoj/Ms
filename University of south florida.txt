@@ -11,7 +11,7 @@ Documents required:
 			Resume: Resume/CV in PDF format
 			Lor: 3 (mail_id)
 			gre: 313, 4.0
-			Toefl: 100 min
+			Toefl: 100
 
 
 Courses offered:
@@ -22,11 +22,4 @@ Courses offered:
 
 
 Important links:
-				https://www.sice.indiana.edu/graduate/admissions/how-to-apply/computer-science.html	
-				https://www.sice.indiana.edu/graduate/degrees/computer-science/ms-requirements.html
-				https://www.sice.indiana.edu/graduate/degrees/data-science/curriculum/index.html	
-				https://www.sice.indiana.edu/graduate/degrees/data-science/index.html
-
-Admission Status:
-
-The Computer Science Graduate Office will contact applicants via emails with their admissions status beginning in late January for Ph.D. applicants, and mid April for Master's students.						
+				http://www.usf.edu/business/graduate/masters/bais/
